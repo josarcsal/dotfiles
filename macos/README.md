@@ -162,14 +162,6 @@ git pull origin main
 source ~/.zshrc
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -181,15 +173,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [eza](https://github.com/eza-community/eza) - Modern replacement for ls
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter cd command
 - [Atuin](https://github.com/atuinsh/atuin) - Better shell history
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page
-2. Create a new issue with detailed information
-3. Include your macOS version and any error messages
-
----
 
 **Happy coding! 🎉**
